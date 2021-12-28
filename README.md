@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Instagram2Codepath](https://user-images.githubusercontent.com/78169956/147526267-3a95cf34-b0a2-4013-96fc-706c58d6ece6.gif)
 
 GIF created with [ScreenToGif](https://www.screentogif.com/).
 
